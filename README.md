@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi 👋
 
 <!--
 **yuhee97/yuhee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qkrdbgml13)](https://solved.ac/qkrdbgml13)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdbgml13)](https://solved.ac/qkrdbgml13)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrdbgml13)](https://solved.ac/qkrdbgml13)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhee97&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
