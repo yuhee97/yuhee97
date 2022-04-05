@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhee97&show_icons=true&theme=dark)
 
-tistory: https://freshman-software-developer.tistory.com/
